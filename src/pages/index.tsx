@@ -27,10 +27,10 @@ export default () => {
         }
       `}</style>
       <section>
-        <a href='/images/署名入り婚姻届.png' download>
+        <a href='/images/signed-marriage-registration.png' download>
           婚姻届をダウンロード！
         </a>
-        <img src='/images/noa.png' alt='noa' decoding='async' />
+        <img src='/images/noa.png' alt='noa' />
       </section>
     </Page>
   )
